@@ -359,3 +359,28 @@
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 lenzmx.com
 0.0.0.0 track.bruceleadx2.com
+https://pagead2.googlesyndication.com
+https://ads.google.com
+https://adservice.google.com
+https://pagead2.googleadservices.com
+https://googleadservices.com
+https://static.media.net
+https://media.net
+https://adservetx.media.net
+https://mediavisor.doubleclick.net
+https://doubleclick.net/
+https://ad.doubleclick.net/
+https://static.doubleclick.net
+https://m.doubleclick.net
+https://fastclick.com
+https://fastclick.net
+https://media.fastclick.net/
+https://cdn.fastclick.net/
+https://adtago.s3.amazonaws.com
+https://analyticsengine.s3.amazonaws.com
+https://advice-ads.s3.amazonaws.com
+https://affiliationjs.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+https://amazonaax.com
+https://amazonclix.com
+https://assoc-amazon.com
